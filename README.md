@@ -18,7 +18,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at
+- 🔭 I’m currently studying at Universidad Rey Juan Carlos
   
 - 🌱 I’m currently learning C++, Python, CSS
   
