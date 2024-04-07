@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://github.com/veleto01/veleto01/blob/main/Fotos/fotoPerfil.JPG">
-</p>
+
 
 <h1> Hello Mate < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
