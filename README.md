@@ -16,13 +16,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at Universidad Rey Juan Carlos
+- 🎓 I graduated in Computer Engineering from Universidad Rey Juan Carlos
   
-- 🌱 I’m currently learning C++, Python, CSS
+- 🛡️ I'm currently exploring SIEM platforms like Wazuh and its various integrations with XDR
   
-- 👯 I’m looking to collaborate on proyects
+- 🌱 I love creating Python automations for cybersecurity projects
   
-- 💬 Ask me about C, Java, Android Studio and back-end 
+- 👯 I enjoy collaborating on innovative and challenging projects
+  
+- 💬 Ask me about Python and perimeter security
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
